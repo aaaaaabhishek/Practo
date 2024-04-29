@@ -6,7 +6,6 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.6.4</version> <!-- Use a valid version -->
-        <packaging>war</packaging>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.Practo</groupId>
